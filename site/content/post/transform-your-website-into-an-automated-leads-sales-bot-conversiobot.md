@@ -117,15 +117,3 @@ Sit back and watch as ConversioBot **Runs Hands-Free, 24/7.**
 ## It’s “AI” Technology similar to that used by BILLION dollar companies.
 
 ## [Get Yours Now](https://conversiobot.com/one-time-deal?hop=lalkishan)
-
-<!--EndFragment-->
-
-<!--EndFragment-->
-
-[![](img/getyoursnow.jpg)](https://conversiobot.com/one-time-deal?hop=lalkishan)
-
-
-
-
-
-[sdfsdgdfhg](https://conversiobot.com/one-time-deal?hop=lalkishan)
