@@ -7,7 +7,7 @@
       <p>{{ .Description }}</p>
       {{ .Content }}
       <div class="flex justify-between grey-3">
-        <p>	<span>{{ range .Param "authors" }}</span> {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+        <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
     </div>
