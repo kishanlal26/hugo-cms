@@ -6,6 +6,8 @@ image: img/about-jumbotron.jpg
 ---
 dsfsdfsdf
 
-![c](img/about-shade-grown.jpg "c")
+[![cccc](img/about-shade-grown.jpg "c")](munchoninfo.com)
+
+
 
 [dsdfdsfsdf](https://munchoninfo.com)
