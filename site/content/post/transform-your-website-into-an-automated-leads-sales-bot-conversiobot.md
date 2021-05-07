@@ -23,7 +23,11 @@ Revolutionary “AI” Technology To Get Leads, Sales & Profit Starting Today.
 ### Special Limited-Time Offer: Get ConversioBot For A Low, One-Time Payment
 
 
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUnVT5d0Noe3sGjKi_YhHfJb8wfVZ2IbQIg&usqp=CAU)](https://conversiobot.com/one-time-deal?hop=lalkishan#certifi)
+[![special offer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUnVT5d0Noe3sGjKi_YhHfJb8wfVZ2IbQIg&usqp=CAU)](https://conversiobot.com/one-time-deal?hop=lalkishan#certifi)
+
+
+[![homepage](http://commonmark.org/help/images/favicon.png)](http://commonmark.org "Redirect to homepage")
+
 
 
 
