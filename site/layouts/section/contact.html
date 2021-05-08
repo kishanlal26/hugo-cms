@@ -10,8 +10,10 @@
 		<div class="flex-ns mb3">
 	        	{{ range .Params.contact_entries }}
 				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+					<table style="table-layout: auto;width: 100%;">
+						<tr><th> <h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4> </th></tr>
+						<tr><td> <p>{{ .text }}</p> </td></tr>
+					</table?
 				</div>
 			{{ end }}
 		</div>
