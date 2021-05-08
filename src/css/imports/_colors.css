@@ -78,3 +78,8 @@
     box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
   }
 }
+
+.shadow {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
