@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/logo.jpg"
 contact_entries:
   - heading: Location
-    text: "Internet"
+    text: "Internet mgvukghgi kgughih"
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
