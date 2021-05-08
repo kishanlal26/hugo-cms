@@ -1,11 +1,13 @@
 ---
-title: "Contact"
-logo: "/img/logo.jpg"
+title: Contact
+logo: /img/logo.jpg
 contact_entries:
   - heading: Location
-    text: "None"
+    text: None
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Contact Number
+    text: +91 8178736305
 ---
 
 We’d love to get in touch with you and hear your ideas and
