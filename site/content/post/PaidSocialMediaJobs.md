@@ -69,11 +69,6 @@ Many businesses will send you free samples of their products and services as par
 
 **Here are some of the FREE items I’ve received in just the past month...**
 
-* **Tablet Computer**
-* **HD Camera**
-* Satellite Navigation
-* Sunglasses
-* TONS of smaller household products
 
 And this was just last month!Here are some of the FREE items I’ve received **in just the past month.**..
 
