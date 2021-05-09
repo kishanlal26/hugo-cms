@@ -7,7 +7,7 @@ description: |+
   And... She Will Show You How YOU Can Too!
 
 
-image: img/paidsocialmediajobs.png
+image:
 ---
 ### [BEGIN YOUR EXCITING NEW CAREER TODAY!](http://lalkishan.socialpaid.hop.clickbank.net/?pid=nooptin)
 
@@ -53,7 +53,7 @@ I've been doing this social media work online for over 12 months now and I have 
 
 ## I'll Show You How To Find Hundreds Of Easy Social Media Jobs That You Can Begin TODAY, Not In A Month Or A Year
 
-![](img/socialmediajobtable.png)
+
 
 ## [VIEW A SAMPLE JOB](http://lalkishan.socialpaid.hop.clickbank.net/?pid=nooptin)
 
@@ -65,7 +65,7 @@ I've been doing this social media work online for over 12 months now and I have 
 
 Many businesses will send you free samples of their products and services as part of the job to ensure that you know enough about their business. I’ll show you the secrets I’ve learnt to keep all of these products for free!
 
-![](img/paidsocialmesiajobspackage.jpeg)
+
 
 **Here are some of the FREE items I’ve received in just the past month...**
 
@@ -105,7 +105,6 @@ I have spent the past 12 months putting together all of the information and reso
 
 GET A $50 BONUS WHEN YOU GET YOUR FIRST PAID SOCIAL MEDIA JOB!
 
-[![](https://payingsocialmediajobs.com/wp-content/uploads/2020/07/50free-1.png "50free-1")](<>)
 
 
 
