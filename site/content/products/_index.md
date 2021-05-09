@@ -1,7 +1,7 @@
 ---
 title: Affiliate Disclaimer
 image: img/about-direct-sourcing.jpg
-heading: hkgbb
+heading: Affiliate Disclaimer
 description: Hi. Pat Flynn here. I’ve always believed in transparency on the web
   and so I am disclosing that I’ve included certain products and links to those
   products on this site that I will earn an affiliate commission for any
