@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Offers Products And Services
+subtitle: It`s  Started to bridge the gap between users and products/Services
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Mission
