@@ -112,4 +112,4 @@ The results from this calculator are not typical or guaranteed.
 
 We have a 60 Day Money Back Guarantee.  If you are not happy for any reason, you can receive a full refund, no questions asked. But we are very confident this will be the best decision you’ve ever made
 
-### \--------------------[CREATE MY ACCOUNT](http://7.socialpaid.pay.clickbank.net/?cbskin=17718&cbfid=43388&cbexit=1539&vtid=)------------------
+### ------------------[CREATE MY ACCOUNT](http://7.socialpaid.pay.clickbank.net/?cbskin=17718&cbfid=43388&cbexit=1539&vtid=)----------------
