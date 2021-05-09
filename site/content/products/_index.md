@@ -85,9 +85,10 @@ intro:
     accessed on the menu above.  Cheers and good luck!  Pat Flynn
 main:
   heading: Affiliate Disclaimer
-  description: Hi. Pat Flynn here. I’ve always believed in transparency on the web
-    and so I am disclosing that I’ve included certain products and links to
-    those products on this site that I will earn an affiliate commission for any
+  description: >-
+    Hi. Kishan Lal here. I’ve always believed in transparency on the web and so
+    I am disclosing that I’ve included certain products and links to those
+    products on this site that I will earn an affiliate commission for any
     purchases you make. My goal with the blog is to help educate you on the
     possibilities that exist for a blogger in practically any field, but please
     understand I am doing this as a for-profit business and, frankly, so should
@@ -96,21 +97,11 @@ main:
     through and list each and every program that I have an affiliate agreement
     with. Given this, you should assume that any links leading you to products
     or services are affiliate links that I will receive compensation from just
-    to be safe. Having said that, there are millions of products and services on
-    the web that relate to blogging and making money online. I only promote
-    those products or services that I have investigated and truly feel deliver
-    value to you. Examples would include the banners for BlueHost, Leadpages,
-    and Create an App. I'm also an affiliate and advisor for companies such as
-    Leadpages, Convertkit, and Samcart.  SmartPassiveIncome.com is also a
-    participant in the Amazon Services LLC Associates Program, an affiliate
-    advertising program designed to provide a means for sites to earn
-    advertising fees by advertising and linking to Amazon.com.  Please note that
-    I have not been given any free products, services or anything else by these
-    companies in exchange for mentioning them on the site. The only
-    consideration is in the form of affiliate commissions or compensation as an
-    advisor for a few companies.  If you have any questions regarding the above,
-    please do not hesitate to contact me by using the contact page. It can be
-    accessed on the menu above.  Cheers and good luck!  Pat Flynn
+    to be safe. 
+
+    If you have any questions regarding the above, please do not hesitate to contact me by using the contact page. It can be accessed on the menu above.  
+
+    Cheers and good luck!  Pat Flynn
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
