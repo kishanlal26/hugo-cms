@@ -101,7 +101,9 @@ main:
 
     If you have any questions regarding the above, please do not hesitate to contact me by using the contact page. It can be accessed on the menu above.  
 
-    Cheers and good luck!  Pat Flynn
+    Cheers and good luck!  
+
+    Kishan Lal
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
