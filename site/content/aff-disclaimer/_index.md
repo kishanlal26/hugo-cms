@@ -1,10 +1,16 @@
 ---
-title: DISCLAIMER
+title: Contact
 logo: /img/logo.jpg
+contact_entries:
+  - heading: Working hours
+    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
-Last updated May 09, 2021
+We’d love to get in touch with you and hear your ideas and
+questions. We strive to grow and improve constantly and your feedback
+is valuable for us.
 
-<h3 class="f4 b lh-title mb2">WEBSITE DISCLAIMER</h3>
+<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-The information provided by Munchoninfo (“we,” “us” or “our”) on munchoninfo.com (the “Site”) and our mobile application is for general informational purposes only. All information on the Site and our mobile application is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site or our mobile application. UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR OUR MOBILE APPLICATION OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE AND OUR MOBILE APPLICATION. YOUR USE OF THE SITE AND OUR MOBILE APPLICATION AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE AND OUR MOBILE APPLICATION IS SOLELY AT YOUR OWN RISK.
+You can also use the form below for any inquiries about Product or Service
+availability, monthly subscriptions. Don’t be shy, drop us a line!
