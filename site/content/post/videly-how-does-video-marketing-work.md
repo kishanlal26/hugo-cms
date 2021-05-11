@@ -1,9 +1,9 @@
 ---
-title: Videly - How does video marketing work
+title: How does video marketing work -Videly
 date: 2021-05-11T06:31:31.939Z
-description: |-
-  Watch me Rank On Page #1 In 60 Seconds
-  And Get INSTANT TARGETED VISITORS
+description: |
+  Watch me Rank On Page #1 In 60 Seconds And Get INSTANT TARGETED VISITORS. 
+  without knowing SEO, without building backlinks or writing any content!
 image: img/videly.png
 ---
 * Reverse Engineers Google & YT Ranking System.
@@ -295,3 +295,5 @@ One Time Payment – No Monthly Fees\
 <!--EndFragment-->
 
 <!--EndFragment-->
+
+#videomarketing #videly #howvideomarketingworks
