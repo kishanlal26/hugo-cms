@@ -20,7 +20,7 @@ image: img/1kaday.png
 
 <!--EndFragment-->
 
-### [Register As An  Affiliate Now](https://56e319pio84ehk5n0afjs4y704.hop.clickbank.net/)
+## [Register As An  Affiliate Now](https://bit.ly/3fkFBTc)
 
 ![]()
 
@@ -50,7 +50,7 @@ Throughout the training program students are walked step-by-step through creatin
 
 #### **REGISTER TO BE OUR AFFILIATE NOW!**
 
-## [REGISTER AS AN AFFILIATE NOW!](https://affiliates.thefasttracks.com/jv-home#open-popup)
+## [REGISTER AS AN AFFILIATE NOW!](https://bit.ly/3fkFBTc)
 
 #### 100% FREE Affiliate Registration Supported By ClickBank!
 
@@ -68,4 +68,4 @@ Throughout the training program students are walked step-by-step through creatin
 
 #### **REGISTER TO BE OUR AFFILIATE NOW!**
 
-## [REGISTER AS AN AFFILIATE NOW!](https://affiliates.thefasttracks.com/jv-home#open-popup)
+## [REGISTER AS AN AFFILIATE NOW!](https://bit.ly/3fkFBTc)
