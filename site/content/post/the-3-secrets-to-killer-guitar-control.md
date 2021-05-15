@@ -38,7 +38,7 @@ I realized that **if you play from the heart**, the technique is secondary. I'm
 
 The second part of the realization was: you don't need to play fast solos all the time. It's all about playing THE RIGHT NOTES. And that started me on the path to discovering what I call: Guitar Control Secrets.
 
-After I tapped into this new guitar knowledge, I started rocking the house. I was one of the most intense guitar players in Philly – I was improvising all of my solos LIVE in the hottest bars and clubs like the Hard Rock Café.
+After I tapped into this new guitar knowledge, I started rocking the house. I was one of the most intense guitar players in Philly – I was improvising all of my solos LIVE in the hottest bars and clubs like the Hard Rock Cafe.
 
 And people were loving it...
 
@@ -142,13 +142,13 @@ Get ready for a fun and exciting experience.
 
 <!--StartFragment-->
 
-### Learn The POWERFUL TRICK Of How ToSwitch Scales Instantly In The Middle Of A SoloJust Like The Guitar Masters.
+### Learn The POWERFUL TRICK Of How To Switch Scales Instantly In The Middle Of A Solo Just Like The Guitar Masters.
 
-* How to use major scales to give your playing "The Top 40 Feel". Great to write pop songs that could become top hits (Watch this at 13:49).
-* How to avoid the biggest mistake that $99 of guitarists make. Save yourself the years of heartbreaking frustration that most guitarists experience because of it (See it at 15:20).
-* Unlock the blues power of classical chord structures that you can always rely on for a killer rhythm backbone (Watch it at 16:42).
-* Become a guitar god by using the "key switch method". It's SUPER SIMPLE, but it instantly brings your solos to a whole new level (Learn this trick at 18:05).
-* How to burst out of a rut immediately by tapping into a new enthusiasm and freshness you might be missing. This tip is so simple yet so effective, that you'll shake your head in disbelief. You'll be jam-packed with inspiration whenever you need it (See this at 18:17).
+* How to use major scales to give your playing "The Top 40 Feel". Great to write pop songs that could become top hits (Watch this at [13:49](https://youtu.be/ziB70hnPXGM)).
+* How to avoid the biggest mistake that $99 of guitarists make. Save yourself the years of heartbreaking frustration that most guitarists experience because of it (See it at [15:20](https://youtu.be/ziB70hnPXGM)).
+* Unlock the blues power of classical chord structures that you can always rely on for a killer rhythm backbone (Watch it at [16:42](https://youtu.be/ziB70hnPXGM)).
+* Become a guitar god by using the "key switch method". It's SUPER SIMPLE, but it instantly brings your solos to a whole new level (Learn this trick at [18:05](https://youtu.be/ziB70hnPXGM)).
+* How to burst out of a rut immediately by tapping into a new enthusiasm and freshness you might be missing. This tip is so simple yet so effective, that you'll shake your head in disbelief. You'll be jam-packed with inspiration whenever you need it (See this at [18:17](https://youtu.be/ziB70hnPXGM)).
 
 ![](https://ws1.guitarcontrol.com/products/guitarcontrolcollection/images/lespaul.jpg)
 
@@ -182,15 +182,15 @@ Here's more juicy gems you'll discover.
 
 ![](https://ws1.guitarcontrol.com/products/guitarcontrolcollection/images/eddie.jpg)
 
-* You will know how you can harness that same power and transform yourself into a guitar god (Learn it at 25:12).
-* Try out the ghost note vocal exercise and watch your improvisation abilities go off the chain. It's a weird exercise that produces magical results (See it at 27:05).
+* You will know how you can harness that same power and transform yourself into a guitar god (Learn it at [25:12](https://youtu.be/ziB70hnPXGM)).
+* Try out the ghost note vocal exercise and watch your improvisation abilities go off the chain. It's a weird exercise that produces magical results (See it at [27:05](https://youtu.be/ziB70hnPXGM)).
 
 ## Become A Wah-Wah King.
 
-* You'll be wailing some ferocious wah and pedal leads by incorporating several of the wild wah-wah tricks that I demonstrate (Watch it at 29:40).
-* Nothing comes close to the in-and-out technique to boost your brain-to-hand connection. It's a little known technique that kicks in your creative mind and power (Learn this at 37:40).
-* Watch your playing metamorphosize by using another simple method that I reveal. This one exposes all your weak points and forces to improve dramatically on a daily basis (Check it out at 41:25).
-* Learn a simple trick that guarantees you'll get a maximum result in minimum time at 41:55.
+* You'll be wailing some ferocious wah and pedal leads by incorporating several of the wild wah-wah tricks that I demonstrate (Watch it at [29:40](https://youtu.be/ziB70hnPXGM)).
+* Nothing comes close to the in-and-out technique to boost your brain-to-hand connection. It's a little known technique that kicks in your creative mind and power (Learn this at [37:40](https://youtu.be/ziB70hnPXGM)).
+* Watch your playing metamorphosize by using another simple method that I reveal. This one exposes all your weak points and forces to improve dramatically on a daily basis (Check it out at [41:25](https://youtu.be/ziB70hnPXGM)).
+* Learn a simple trick that guarantees you'll get a maximum result in minimum time at [41:55](https://youtu.be/ziB70hnPXGM).
 
 ## Why You Need To Buy Guitar Control.
 
@@ -222,25 +222,25 @@ And then in 7 days of learning this stuff, you'll be doing stuff that you probab
 
 Before you pull out your credit card, I wanna tell you why this system is totally different than other courses:
 
-`REASON #1:`
+**REASON #1:**
 
-`This is the only guitar course that teaches you how to achieve a "Guitar Control". This is the little known secret that every pro including Santana, Satriani and Clapton possesses.`
+This is the only guitar course that teaches you how to achieve a "Guitar Control". This is the little known secret that every pro including Santana, Satriani and Clapton possesses.
 
-`REASON #2:`
+**REASON #2:**
 
-`This is the only guitar course that shows you how to develop the brain-to-hand connection. Once you have this, you'll be light years ahead of where you are now.`
+This is the only guitar course that shows you how to develop the brain-to-hand connection. Once you have this, you'll be light years ahead of where you are now.
 
-`REASON #3:`
+**REASON #3:**
 
-`This is the only guitar course that reveals how to play from the heart.`
+This is the only guitar course that reveals how to play from the heart.
 
-`REASON #4:`
+**REASON #4:**
 
-`This is the only guitar course that you don't have to memorize anything or learn a bunch of a new technique. Guitar Control Turbo-Boosts the techniques you already have.`
+This is the only guitar course that you don't have to memorize anything or learn a bunch of a new technique. Guitar Control Turbo-Boosts the techniques you already have.
 
-`REASON #5:`
+**REASON #5:**
 
-`This is the only guitar course that explains in depth how to improve solos that blow everyone away including yourself. There's a lot more reasons why this course is so unique and you'll see for yourself when you watch the lessons.`
+This is the only guitar course that explains in depth how to improve solos that blow everyone away including yourself. There's a lot more reasons why this course is so unique and you'll see for yourself when you watch the lessons.
 
 I finished the videos with a bang when I explain another amazing psychological concept that can propel you towards the master level faster that you can imagine. It's a forgotten concept that is necessary for every serious guitar player who wants to be a GUITAR GOD.
 
@@ -250,15 +250,11 @@ These are my gifts to you, and they are yours to keep, even if you decide to tak
 
 **Imagine having the inner confidence to be relaxed on any stage...** with any amount of people... anywhere in the world... knowing your chops and mastery has made you truly accomplished guitarist.
 
-
-
 ![](https://ws1.guitarcontrol.com/products/supercharged/images/claude011.jpg)
 
 You can't buy that kind of confidence for any amount of money...
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -354,8 +350,6 @@ YOUR OFFER:$149
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## AMAZING OFFER #2:
@@ -371,8 +365,6 @@ RETAIL PRICE:~~$69~~SAVE 15%
 ## [YES! I WANT INSTANT ACCESS TO THIS COURSE](https://bit.ly/2QiFaA4)
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -460,8 +452,6 @@ YOUR OFFER:$149
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## AMAZING OFFER #2:
@@ -489,7 +479,5 @@ And within minutes from now, you can be taking out your guitar, and playing some
 But I can't make you click the button. Only you can do that. Only you can make the choice right now to own Killer Guitar Control Secrets.
 
 Rock On,![](https://ws1.guitarcontrol.com/assets/images/sig/claude-sig.png)Claude Johnson
-
-
 
 <!--EndFragment-->
